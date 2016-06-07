@@ -1,0 +1,58 @@
+export default [
+  {
+    title: 'Association for Psychological Science',
+    website: 'http://centerforopenscience.org/aps/',
+    city: 'San Francisco',
+    state: 'California',
+    country: 'United States',
+    startDate: '2015-05-22',
+    endDate: '2015-05-25',
+    submissionDate: '2015-04-01',
+    closeDate: '2015-05-26',
+    logo: 'https://osf.io/static/img/2014_Convention_banner-with-APS_700px.jpg',
+    tags: '',
+    description: 'The Association for Psychological Science (APS), previously the American Psychological Society, is an international non-profit organization whose mission is to promote, protect, and advance the interests of scientifically oriented psychology in research, application, teaching, and the improvement of human welfare.'
+  },
+  {
+    title: 'COS | Center for Open Science News',
+    website: 'http://cos.io/news',
+    city: 'Charlottesville',
+    state: 'Virginia',
+    country: 'United States',
+    startDate: '2016-06-28',
+    endDate: '2016-08-15',
+    submissionDate: '2016-03-14',
+    closeDate: '2016-03-29',
+    logo: 'http://127.0.0.1:4200/assets/images/cos_logo.png',
+    tags: '',
+    description: 'The Center for Open Science is awesome!'
+  },
+  {
+    title: 'Rocky Mountain Psychological Association',
+    website: 'http://www.rockymountainpsych.org/uploads/7/4/2/6/7426961/85th_annual_rmpa_conference_program_hr.pdf',
+    city: 'Salt Lake City',
+    state: 'Utah',
+    country: 'United States',
+    startDate: '2017-04-06',
+    endDate: '2017-04-08',
+    submissionDate: '2017-03-01',
+    closeDate: '2017-03-29',
+    logo: 'http://127.0.0.1:4200/assets/images/1397234084.jpg',
+    tags: '',
+    description: 'RMPA was founded in 1930 for the purpose of advancing psychology as a science, as a profession and as a means of promoting human welfare in the States of Colorado, Arizona, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming.'
+  },
+  {
+    title: 'National Radio Astronomy Observatory Filaments',
+    website: 'https://science.nrao.edu/science/meetings/2014/',
+    city: 'National Harbor',
+    state: 'Maryland',
+    country: 'United States',
+    startDate: '2014-02-06',
+    endDate: '2014-02-08',
+    submissionDate: '2014-01-01',
+    closeDate: '2014-01-29',
+    logo: 'http://127.0.0.1:4200/assets/images/filaments2014_660x178.png',
+    tags: '',
+    description: 'Enabling forefront research into the Universe at radio wavelengths'
+  },
+];
